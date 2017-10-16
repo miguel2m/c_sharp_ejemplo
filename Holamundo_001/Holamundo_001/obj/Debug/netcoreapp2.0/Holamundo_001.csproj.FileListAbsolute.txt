@@ -1,0 +1,11 @@
+C:\Users\Miguelangel\source\repos\c_sharp_ejemplo\c_sharp_ejemplo\Holamundo_001\Holamundo_001\bin\Debug\netcoreapp2.0\Holamundo_001.deps.json
+C:\Users\Miguelangel\source\repos\c_sharp_ejemplo\c_sharp_ejemplo\Holamundo_001\Holamundo_001\bin\Debug\netcoreapp2.0\Holamundo_001.runtimeconfig.json
+C:\Users\Miguelangel\source\repos\c_sharp_ejemplo\c_sharp_ejemplo\Holamundo_001\Holamundo_001\bin\Debug\netcoreapp2.0\Holamundo_001.runtimeconfig.dev.json
+C:\Users\Miguelangel\source\repos\c_sharp_ejemplo\c_sharp_ejemplo\Holamundo_001\Holamundo_001\bin\Debug\netcoreapp2.0\Holamundo_001.dll
+C:\Users\Miguelangel\source\repos\c_sharp_ejemplo\c_sharp_ejemplo\Holamundo_001\Holamundo_001\bin\Debug\netcoreapp2.0\Holamundo_001.pdb
+C:\Users\Miguelangel\source\repos\c_sharp_ejemplo\c_sharp_ejemplo\Holamundo_001\Holamundo_001\obj\Debug\netcoreapp2.0\Holamundo_001.csprojResolveAssemblyReference.cache
+C:\Users\Miguelangel\source\repos\c_sharp_ejemplo\c_sharp_ejemplo\Holamundo_001\Holamundo_001\obj\Debug\netcoreapp2.0\Holamundo_001.csproj.CoreCompileInputs.cache
+C:\Users\Miguelangel\source\repos\c_sharp_ejemplo\c_sharp_ejemplo\Holamundo_001\Holamundo_001\obj\Debug\netcoreapp2.0\Holamundo_001.AssemblyInfoInputs.cache
+C:\Users\Miguelangel\source\repos\c_sharp_ejemplo\c_sharp_ejemplo\Holamundo_001\Holamundo_001\obj\Debug\netcoreapp2.0\Holamundo_001.AssemblyInfo.cs
+C:\Users\Miguelangel\source\repos\c_sharp_ejemplo\c_sharp_ejemplo\Holamundo_001\Holamundo_001\obj\Debug\netcoreapp2.0\Holamundo_001.dll
+C:\Users\Miguelangel\source\repos\c_sharp_ejemplo\c_sharp_ejemplo\Holamundo_001\Holamundo_001\obj\Debug\netcoreapp2.0\Holamundo_001.pdb
